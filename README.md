@@ -12,7 +12,7 @@
 
 <p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns dois anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a partir de programação ou ánalise, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil..</p>
 
-<p>My other ithub profile for Data Science and Machine Learning is https://github.com/PabloViniciusSS </p>
+<p>My other github profile for Data Science and Machine Learning is https://github.com/PabloViniciusSS </p>
 ###
 
 
