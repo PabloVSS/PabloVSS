@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Data Science | Machine Learning | Deep Learning </h4>
+<h4 align="center">Front End | Back End | JavaScript </h4>
 
 ###
 
