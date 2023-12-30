@@ -6,11 +6,12 @@
 
 ###
 
-<p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de Ciências de Dados, Machine Learning.
-Já faz mais de 3 anos que venho estudando programação, com diversas linguagens, mas, nunca fixei em um assunto, pois tudo chamava minha atenção, porem percebe que precisava focar, para ter melhor compreensão do assunto e conseguir ser um profissional melhor, com isso, busquei conhecer diversas áreas e encontrei na Ciências de Dados, principalmente na área de Machine Learning, o assunto que eu gostava, desde então, já faz mais ou menos um ano, que venho dedicando exclusivamente nessa área, com python e as bibliotecas NumPy, pandas, Matplotlib, Scikit-learn, TensorFlow e PyTorch, já fiz curso de Machine Learning e estou realizando curso de Deep Lerning na Coursera. Agora depois de um tempo aprendendo o fundamento dessa área, venho conhecendo também outras linguagens que tenha esse foco, além de um foco na parte cientifica.</p>
+<p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns doias anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados, mas, busco uma mudança de área, pois, trabalho com suporte ao cliente, mas, nao é a área do meu intersse, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer teste e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil.</p>
 
-<p align="left">I'm passionate about technology, looking to work in the field of Data Science, Machine Learning.
-I've been studying programming for more than 3 years, with several languages, but I never stuck to one subject, because everything caught my attention, but I realized that I needed to focus, to have a better understanding of the subject and to be a better professional, so I tried to get to know several areas and found in Data Sciences, Since then, I've been working exclusively in this area for about a year, with Python and the NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow and PyTorch libraries, I've already taken a Machine Learning course and I'm currently taking a Deep Lerning course at Coursera. Now, after some time learning the basics of this area, I'm also getting to know other languages that have this focus, as well as focusing on the scientific side too.</p>
+<p align="left">I am passionate about technology, looking to work in the area of systems development or Data Scientist, this profile was created with the aim of placing the projects in FrontEnd and BackEnd in javaScript separate from the others, I studied JavaScript and TypeScript for a couple of years, and I have full capacity to solve problems in this language, I am currently studying Data Science, but I am looking for a change of area, because I work with customer support, but it is not the area of my interest, so I decided to make this division and expand the area of search for a new job, I am available to test and show my ability in this language and I thank everyone who visits this profile.</p>
+
+<p> O meu outro perfil no ithub apenas de ciências de Dados e Machine Learning é
+- https://github.com/PabloViniciusSS </p>
 
 ###
 
@@ -19,17 +20,17 @@ I've been studying programming for more than 3 years, with several languages, bu
 ### Main Skills
 <div align="left">
 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
 ### Tools
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
@@ -44,26 +45,12 @@ I've been studying programming for more than 3 years, with several languages, bu
 
 
 
- ### Studying in this moment	
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?logo=fortran&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
-
- 
-
-
  ### Other Knowledge
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+ 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54
 
 
 ###
