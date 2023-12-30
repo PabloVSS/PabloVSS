@@ -8,11 +8,11 @@
 
 <p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns dois anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a partir de programação ou ánalise, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil.</p>
 
-<p align="left">I am passionate about technology, looking to work in the area of systems development or Data Scientist, this profile was created with the aim of placing the projects in FrontEnd and BackEnd in javaScript separate from the others, I studied JavaScript and TypeScript for a couple of years, and I have full capacity to solve problems in this language, I am currently studying Data Science, but I am looking for a change of area, because I work with customer support, but it is not the area of my interest, so I decided to make this division and expand the area of search for a new job, I am available to test and show my ability in this language and I thank everyone who visits this profile.</p>
+<p> O meu outro perfil no ithub apenas de ciências de Dados e Machine Learning é https://github.com/PabloViniciusSS </p>
 
-<p> O meu outro perfil no ithub apenas de ciências de Dados e Machine Learning é
-- https://github.com/PabloViniciusSS </p>
+<p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns dois anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a partir de programação ou ánalise, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil..</p>
 
+<p>My other ithub profile for Data Science and Machine Learning is https://github.com/PabloViniciusSS </p>
 ###
 
 
