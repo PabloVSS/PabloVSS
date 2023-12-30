@@ -6,13 +6,20 @@
 
 ###
 
-<p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns dois anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a partir de programação ou ánalise, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil.</p>
+<p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns dois anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a área de programação ou ánalise, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil.</p>
 
-<p> O meu outro perfil no ithub apenas de ciências de Dados e Machine Learning é https://github.com/PabloViniciusSS </p>
+<p> Os meus outros perfis são:</p>
+ 
+<br> - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS
+<br> - Mobile & Back-End: https://github.com/pabloviniciusSousa
 
 <p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns dois anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a partir de programação ou ánalise, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil..</p>
 
-<p>My other github profile for Data Science and Machine Learning is https://github.com/PabloViniciusSS </p>
+My other profiles are:
+
+<br>- Data Scientist and Machinelearning: https://github.com/PabloViniciusSS
+<br>- Mobile & Back-End: https://github.com/pabloviniciusSousa
+
 ###
 
 
@@ -56,9 +63,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloViniciusSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloVSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloViniciusSS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloVSS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
