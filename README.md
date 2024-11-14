@@ -15,7 +15,6 @@ My future goals include further enhancing my skills in web and backend developme
 <p> Os meus outros perfis são:</p>
  
 <br> - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS
-<br> - Mobile & Back-End: https://github.com/pabloviniciusSousa
 
 
 ###
@@ -33,6 +32,8 @@ My future goals include further enhancing my skills in web and backend developme
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
 
 ### Tools
 
@@ -52,8 +53,7 @@ My future goals include further enhancing my skills in web and backend developme
 
  ### Other Knowledge
  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
