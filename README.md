@@ -2,23 +2,21 @@
 
 ###
 
-<h4 align="center">Front End | Back End | JavaScript </h4>
+<h4 align="center">Front End | Back End | JavaScript | TypeScript | Java </h4>
 
 ###
 
-<p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns dois anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a área de programação ou ánalise, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil.</p>
+<p align="left">I am Pablo Vinícius Sousa Silva, a graduate in Internet Informatics from the Instituto Tecnológico do Estado de Goiás (2014-2016). My passion lies in web development and emerging technologies. During my academic journey, I excelled in projects involving website and web application creation, primarily using JavaScript, PHP, and SQL.
+
+My professional experience began as a Web Development Intern at the Secretaria Municipal de Educação in Anápolis (2019-2021), where I performed database queries and updates, managed the institution's website, and maintained updated programs. Currently, I work as a Support Analyst at Protec Sistemas, providing customer service and technical support, identifying and solving database issues.
+
+My future goals include further enhancing my skills in web and backend development, focusing on technologies like NestJs, Spring Framework, and Docker. I also plan to obtain additional certifications in cloud services such as AWS and Microsoft Azure, aiming to become a highly skilled Full Stack developer. I am always looking for new challenges and opportunities to grow professionally.</p>
 
 <p> Os meus outros perfis são:</p>
  
 <br> - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS
 <br> - Mobile & Back-End: https://github.com/pabloviniciusSousa
 
-<p align="left">Eu sou um apaixonado por tecnologias, em busca de trabalhar na área de desenvolvimento de sistemas ou Cientista de Dados, esse perfil foi criado com o objetivo de colocar os projetos em FrontEnd e BackEnd em javaScript separados dos outros, estudei JavaScript e TypeScript por uns dois anos, e tenho total capacidade de resolver problemas nessa linguagem, atualmente estou estudando a área de Ciencia de Dados. Trabalho com suporte ao cliente, mas, nao é onde desejo continuar, o meu intersse é a partir de programação ou ánalise, por isso, resolve fazer essa divisão e ampliar a área de busca de um novo emprego, estou disponivel para fazer testes e mostra minha habilidade nessa linguagem e agradeço a todos que visitarem esse perfil..</p>
-
-My other profiles are:
-
-<br>- Data Scientist and Machinelearning: https://github.com/PabloViniciusSS
-<br>- Mobile & Back-End: https://github.com/pabloviniciusSousa
 
 ###
 
