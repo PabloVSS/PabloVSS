@@ -1,18 +1,20 @@
-<h1 align="center">Meu Nome é Pablo Vinícius Sousa Silva</h1>
+<h1 align="center"> 👋 Hi, I'm Pablo Vinícius Sousa Silva</h1>
 
 ###
 
-<h4 align="center">Front End | Back End | JavaScript | TypeScript | Java </h4>
+🚀 **Fullstack Developer | Web3 Enthusiast | Blockchain Integration**  
+💻 Frontend & Backend | JavaScript | TypeScript | Java | Solidity
 
-###
 
-<p align="left">I am Pablo Vinícius Sousa Silva, a graduate in Internet Informatics from the Instituto Tecnológico do Estado de Goiás (2014-2016). My passion lies in web development and emerging technologies. During my academic journey, I excelled in projects involving website and web application creation, primarily using JavaScript, PHP, and SQL.
+## 🧑‍💻 About Me
+I'm a graduate in **Internet Informatics** from the Instituto Tecnológico do Estado de Goiás (2014-2016), passionate about **web development** and **emerging technologies**.  
 
-My professional experience began as a Web Development Intern at the Secretaria Municipal de Educação in Anápolis (2019-2021), where I performed database queries and updates, managed the institution's website, and maintained updated programs. Currently, I work as a Support Analyst at Protec Sistemas, providing customer service and technical support, identifying and solving database issues.
+My journey started with projects involving **websites** and **web applications** using **JavaScript**, **PHP**, and **SQL**.  
+Currently, I work as a **Support Analyst** at Protec Sistemas, providing customer support, solving technical issues, and optimizing database performance.  
 
-My future goals include further enhancing my skills in web and backend development, focusing on technologies like NestJs, Spring Framework, and Docker. I also plan to obtain additional certifications in cloud services such as AWS and Microsoft Azure, aiming to become a highly skilled Full Stack developer. I am always looking for new challenges and opportunities to grow professionally.</p>
+My focus now is to grow as a **Fullstack Developer with Web3 skills**, integrating blockchain into modern web applications.
 
-<p> Os meus outros perfis são:</p>
+---
  
 <br> - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS
 
@@ -22,61 +24,53 @@ My future goals include further enhancing my skills in web and backend developme
 
 
 ### Main Skills
-<div align="left">
+## 🔧 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Tools
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+**Blockchain & Web3:**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-25383c?style=flat&logo=ethereum&logoColor=lightblue)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=ethereum&logoColor=black)
+![Wagmi](https://img.shields.io/badge/Wagmi-1E1E1E?style=flat&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat&logo=ethereum&logoColor=white)
 
-### Database
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+---
 
- ### Other Knowledge
- 
+## 🌎 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/pabloviniciusss)  
+- 📧 pablodevss@gmail.com
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloVSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloVSS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pabloviniciusss/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5562993296503" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
