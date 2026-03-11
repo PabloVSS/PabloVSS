@@ -2,22 +2,32 @@
 
 ###
 
-🚀 **Fullstack Developer | Web3 Enthusiast | Blockchain Integration**  
-💻 Frontend & Backend | JavaScript | TypeScript | Java | Solidity
+🚀 **Backend Developer | Systems Programming | C, Rust, Linux | Performance & Low-Level Software**  
+💻 Backend Developer | Systems Programming | C, Rust, Linux | Performance & Low-Level Software
 
 
 ## 🧑‍💻 About Me
-I'm a graduate in **Internet Informatics** from the Instituto Tecnológico do Estado de Goiás (2014-2016), passionate about **web development** and **emerging technologies**.  
+Software developer with a strong foundation in backend development, systems programming, and performance optimization. Graduated in Internet Informatics from the Instituto Tecnológico do Estado de Goiás (2014-2016). Passionate about low-level programming, system architecture, and Web3 technologies.
 
-My journey started with projects involving **websites** and **web applications** using **JavaScript**, **PHP**, and **SQL**.  
-Currently, I work as a **Support Analyst** at Protec Sistemas, providing customer support, solving technical issues, and optimizing database performance.  
+My professional journey began with web development projects using JavaScript, PHP, and SQL, and now I focus on backend and system-level programming. I currently work as a Support Analyst at Protec Sistemas, providing technical support, troubleshooting applications, and optimizing database performance.
 
-My focus now is to grow as a **Fullstack Developer with Web3 skills**, integrating blockchain into modern web applications.
+💡 Skills & Expertise
 
----
- 
-<br> - Cientista de Dados e Machinelearning: https://github.com/PabloViniciusSS
+Programming Languages & Systems: C, Rust, x86-64 Assembly, Java, JavaScript/TypeScript, Python, PHP
+Backend & APIs: Java (Spring Boot), Node.js, REST APIs
+Databases: PostgreSQL, MySQL, advanced SQL, database modeling & optimization
+Systems & Tools: Linux, debugging with GDB, Docker, Git, CI/CD
+Special Interests:
 
+High-performance backend systems
+
+Software infrastructure & optimization
+
+Low-level and systems programming
+
+Software architecture & code best practices
+
+Web3 integration and blockchain technologies
 
 ###
 
